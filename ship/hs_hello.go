@@ -3,9 +3,9 @@ package ship
 import (
 	"time"
 
-	"github.com/enbility/ship-go/logging"
-	"github.com/enbility/ship-go/model"
-	"github.com/enbility/ship-go/util"
+	"github.com/lyn0904/ship-go/logging"
+	"github.com/lyn0904/ship-go/model"
+	"github.com/lyn0904/ship-go/util"
 )
 
 // Handshake Hello covers the states smeHello...

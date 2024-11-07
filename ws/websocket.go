@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/logging"
-	"github.com/enbility/ship-go/model"
 	"github.com/gorilla/websocket"
+	"github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/logging"
+	"github.com/lyn0904/ship-go/model"
 )
 
 const connIsClosedError string = "connection is closed"

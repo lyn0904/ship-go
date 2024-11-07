@@ -5,9 +5,9 @@ import (
 	"net"
 	"sync"
 
-	"github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/logging"
 	"github.com/enbility/zeroconf/v2"
+	"github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/logging"
 )
 
 type ZeroconfProvider struct {

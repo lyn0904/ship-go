@@ -3,7 +3,7 @@ package logging_test
 import (
 	"testing"
 
-	"github.com/enbility/ship-go/logging"
+	"github.com/lyn0904/ship-go/logging"
 	"github.com/stretchr/testify/suite"
 )
 

@@ -1,4 +1,4 @@
-module github.com/enbility/ship-go
+module github.com/lyn0904/ship-go
 
 go 1.22.0
 

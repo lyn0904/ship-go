@@ -4,9 +4,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/enbility/ship-go/mocks"
-	"github.com/enbility/ship-go/model"
-	"github.com/enbility/ship-go/util"
+	"github.com/lyn0904/ship-go/mocks"
+	"github.com/lyn0904/ship-go/model"
+	"github.com/lyn0904/ship-go/util"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/suite"

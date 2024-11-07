@@ -12,12 +12,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/cert"
-	"github.com/enbility/ship-go/logging"
-	"github.com/enbility/ship-go/ship"
-	"github.com/enbility/ship-go/ws"
 	"github.com/gorilla/websocket"
+	"github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/cert"
+	"github.com/lyn0904/ship-go/logging"
+	"github.com/lyn0904/ship-go/ship"
+	"github.com/lyn0904/ship-go/ws"
 )
 
 // Websocket connection handling

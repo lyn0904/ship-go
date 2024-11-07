@@ -3,7 +3,7 @@ package api
 import (
 	"sync"
 
-	"github.com/enbility/ship-go/util"
+	"github.com/lyn0904/ship-go/util"
 )
 
 // generic service details about the local or any remote service

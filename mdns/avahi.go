@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/enbility/go-avahi"
-	"github.com/enbility/ship-go/api"
-	"github.com/enbility/ship-go/logging"
+	"github.com/lyn0904/ship-go/api"
+	"github.com/lyn0904/ship-go/logging"
 )
 
 type mdnsServiceData struct {
